@@ -15,12 +15,12 @@
             "mime-types": {
               "version": "2.0.10",
               "from": "mime-types@>=2.0.10 <2.1.0",
-              "resolved": "http://174.129.255.150:4873/mime-types/-/mime-types-2.0.10.tgz",
+              "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.0.10.tgz",
               "dependencies": {
                 "mime-db": {
                   "version": "1.8.0",
                   "from": "mime-db@>=1.8.0 <1.9.0",
-                  "resolved": "http://174.129.255.150:4873/mime-db/-/mime-db-1.8.0.tgz"
+                  "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.8.0.tgz"
                 }
               }
             },
@@ -194,12 +194,12 @@
             "mime-types": {
               "version": "2.0.10",
               "from": "mime-types@>=2.0.10 <2.1.0",
-              "resolved": "http://174.129.255.150:4873/mime-types/-/mime-types-2.0.10.tgz",
+              "resolved": "https://registry.npmjs.org/mime-types/-/mime-types-2.0.10.tgz",
               "dependencies": {
                 "mime-db": {
                   "version": "1.8.0",
                   "from": "mime-db@>=1.8.0 <1.9.0",
-                  "resolved": "http://174.129.255.150:4873/mime-db/-/mime-db-1.8.0.tgz"
+                  "resolved": "https://registry.npmjs.org/mime-db/-/mime-db-1.8.0.tgz"
                 }
               }
             }
